@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "start": "WATCHPACK_POLLING=true react-scripts start"
+    }
+  }
+  
